@@ -13,5 +13,7 @@ imaginative sci-fi adventures, providing a rich tapestry of cinematic
 experiences for audiences to explore and enjoy.
 
  pbix file- https://drive.google.com/file/d/1TMWFF5AwYD9R5LT9cpmh5KjYIXCArnLw/view?usp=sharing
+ 
  pdf- https://drive.google.com/file/d/1M2IqJWiLtDuG_JOQpvFT2snlYtVF9XVZ/view?usp=sharing
- ppt- https://drive.google.com/file/d/1uWpVvHpPUmEuCXXzhj9h8VKphD2HN3YY/view?usp=drive_link
+ 
+ ppt- https://drive.google.com/file/d/1uWpVvHpPUmEuCXXzhj9h8VKphD2HN3YY/view?usp=sharing
