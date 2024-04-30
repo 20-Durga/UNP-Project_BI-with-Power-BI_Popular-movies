@@ -1,6 +1,9 @@
 # UNP-Project_BI-with-Power-BI_Popular-movies
+
 Completed this project as a part of Bi with Power bi internship with United Network of Professionals (UNP)
+
 Key highlights
+
 1.This project provides a comprehensive analysis of movies based on
 various criteria such as average ratings, user counts, genres, tags, and
 tag relevance.
